@@ -34,8 +34,8 @@
 
 ## 📫 Contato
 
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-💼 LinkedIn: https://linkedin.com
+📧 Email: [nevepsiquica333@gmail.com](mailto:nevepsiquica333@gmail.com)
+💼 LinkedIn: www.linkedin.com/in/rikelme-batista-196561272
 
 ---
 
