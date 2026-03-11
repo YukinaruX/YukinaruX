@@ -1,9 +1,42 @@
-👋 Olá, sou o Rikelme!
-Bem-vindo(a) ao meu perfil no GitHub!
-Sou estudante de Engenharia de Software, atualmente no 4º semestre, e estou começando minha jornada no mundo do desenvolvimento. Este espaço é dedicado aos meus projetos e à evolução das minhas habilidades em programação.
+# 👋 Olá! Eu sou Rikelme
 
-🚀 Sobre Mim
-🎓 Estudante de Engenharia de Software (4º semestre).
-🌱 Atualmente focado em aprimorar minhas habilidades em Python, Kotlin, C#, TS e HTML/CSS.
-📌 Interesse em desenvolvimento mobile e soluções de software criativas e eficientes.
-💡 Busco por novas oportunidades de aprendizado e desafios que contribuam para o meu crescimento.
+💻 Estudante de **Engenharia de Software**
+🚀 Desenvolvedor focado em **automações, SaaS e sistemas web**
+📍 Brasil
+
+---
+
+## 🚀 Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Projetos
+
+🚀 CRM para agências
+📊 Dashboard de automação
+⚙️ Sistemas com automação e integrações
+
+---
+
+## 📫 Contato
+
+📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+💼 LinkedIn: https://linkedin.com
+
+---
+
+⭐ Sempre buscando aprender novas tecnologias e criar projetos inovadores.
