@@ -6,7 +6,7 @@
 ██████╔╝██║█████╔╝ █████╗  ██║     ██╔████╔██║█████╗  
 ██╔══██╗██║██╔═██╗ ██╔══╝  ██║     ██║╚██╔╝██║██╔══╝  
 ██║  ██║██║██║  ██╗███████╗███████╗██║ ╚═╝ ██║███████╗
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝╚══════╝
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝███████╗
 ```
 
 ### Engenharia de Software · Automação · SaaS · Sistemas Web
@@ -31,12 +31,12 @@ dev = {
     "curso":    "Engenharia de Software",
     "foco":     ["Automações", "SaaS", "Sistemas Web", "ERP"],
     "cidade":   "Feira de Santana, Bahia 🇧🇷",
-    "stack":    ["JavaScript", "Node.js", "Python", "React"],
+    "stack":    ["Go", "TypeScript", "Node.js", "Python", "React", "C#"],
     "status":   "Construindo coisas que funcionam de verdade 🚀"
 }
 ```
 
-Sou dev focado em **resolver problemas reais com código**. Trabalho com automações de processos, pipelines de dados, sistemas SaaS multi-tenant e integrações com APIs externas. Gosto de projetos que vão do zero ao produto funcional.
+Sou dev focado em **resolver problemas reais com código**. Trabalho com sistemas internos de gestão (ERP/facilities), automações de processos operacionais, bots de WhatsApp e aplicações multiplataforma. Gosto de projetos que vão do zero ao produto funcional — do back-end em Go/Node ao deploy em Docker.
 
 ---
 
@@ -44,20 +44,27 @@ Sou dev focado em **resolver problemas reais com código**. Trabalho com automa�
 
 **Back-end & Automação**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Front-end**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Banco de Dados & Infra**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -66,10 +73,11 @@ Sou dev focado em **resolver problemas reais com código**. Trabalho com automa�
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🏢 **ERP Municipal** | Sistema de gestão para prefeitura com automação de almoxarifado e controle de estoque | Node.js · React · PostgreSQL |
-| 📊 **CRM para Agências** | CRM customizado com pipeline de leads e automação de follow-up | React · Node.js · Supabase |
-| 🤖 **Pipeline de Vídeos com IA** | Geração automatizada de criativos para tráfego pago com HeyGen + FFmpeg + Whisper | Python · Flask · FFmpeg |
-| 🍽️ **SaaS de Cardápio Digital** | Plataforma multi-tenant para restaurantes com planos e integração WhatsApp | Next.js · Tailwind · Stripe |
+| 🏢 **Facilities MG** | Sistema interno de gestão de facilities corporativo — ciclo completo de solicitações de materiais, equipamentos, frota, encomendas e assinaturas, com fluxos de aprovação e rastreamento em tempo real | Go · React · TypeScript · PostgreSQL · Docker |
+| 📱 **Contingency Hub** | Sistema operacional para gestão de chips/celulares físicos em marketing digital — movimentações em lote, timeline auditável e prova visual por foto, coordenando os setores comercial e contingência | Go · React · TypeScript · Docker · Fly.io |
+| 📲 **WhatsManager** | App mobile multiplataforma (Android · iOS · Windows) para gestão de WhatsApp, com arquitetura MVVM, persistência local e dashboards | .NET MAUI · C# · SQLite |
+| 🔎 **WhatsApp Bot (OCR)** | Automação de dispositivo Android via ADB com visão computacional e OCR para leitura de tela e interação automática | Python · OpenCV · Tesseract |
+| 📊 **Agendamentos DB II** | Sistema de agendamentos com regras de negócio na camada de dados — stored procedures, functions e constraints de integridade | PostgreSQL · Supabase · Node.js |
 
 ---
 
